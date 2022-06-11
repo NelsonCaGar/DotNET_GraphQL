@@ -27,8 +27,6 @@ Running on .NET Core 2.2
 - UnitTest: Unit tests for the application.
 - IDP: Identity Provider using Identityserver4.
 
-[GraphQL IDE](https://github.com/prisma/graphql-playground)
-
 ## Setting up application
 
 The application require 2 databases - one for the application it self and one for Hangfire.
@@ -42,7 +40,7 @@ The application require 2 databases - one for the application it self and one fo
 Real time metrics require Grafana and InfluxDb.
 
 1.  Add InfluxDb options to appsettings.
-2.  Download Grafana dashboard [here](https://grafana.com/dashboards/2125).
+2.  Download Grafana dashboard 
 
 ## Logging
 
